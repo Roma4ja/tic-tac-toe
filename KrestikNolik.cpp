@@ -29,6 +29,7 @@ int main()
 
         char board[16] = { ' ', '1', '2', '3', '1', ' ', ' ', ' ', '2',' ', ' ', ' ', '3', ' ', ' ', ' ' };
     printBoard(board);
+    system("pause");
 
 }
 
