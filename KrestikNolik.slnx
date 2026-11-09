@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="KrestikNolik.vcxproj" />
+  <Project Path="KrestikNolik.vcxproj" Id="ad154628-d597-448f-95e2-d69db88a1b2b" />
 </Solution>
