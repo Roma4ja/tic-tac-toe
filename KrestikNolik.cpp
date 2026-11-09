@@ -107,6 +107,7 @@ int main() {
         if (CheckWin(board, current->symbol)) {
             printBoard(board);
             std::cout << "Победили " << current->symbol << "!\n";
+            system("pause");
             return 0;
         }
 
@@ -116,7 +117,9 @@ int main() {
     printBoard(board);
     std::cout << "Ничья!\n";
 
+    system("pause");
     return 0;
+  
 }
 
 
